@@ -1,0 +1,62 @@
+.list_s {
+    background-color: rgb(250, 167, 154);
+}
+
+.list_head {
+    background-color: rgb(189, 221, 223);
+    align-content: center;
+}
+
+.grid-container {
+ display: grid;
+ grid-template-columns: repeat(2, 1fr);
+ gap: 10px;
+ border: 1px solid black;
+}
+
+.tableza {
+    margin: auto;
+    margin-top: 50px;
+}
+
+.Aboba {
+    background-color: rgb(221, 99, 99);
+    padding: 10px 25px;
+    border-radius: 15px;
+    margin-top: -11px;
+}
+
+.abort {
+    display: flex;
+}
+
+.abort1{
+    width: 440px;
+}
+
+#spid {
+    color: rgb(159, 11, 11);
+    margin-left: 26px;
+    font-size: 20px;
+}
+
+body {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.Abobadva {
+    background-color: rgb(221, 99, 99);
+    padding: 10px 25px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    margin-top: -127px;
+    margin-left: 250px;
+}
+
+#pipez {
+    color: rgb(158, 13, 13);
+    font-size: 20px;
+    margin-left: 290px;
+    margin-top: -43px;
+}

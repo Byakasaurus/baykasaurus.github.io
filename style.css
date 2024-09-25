@@ -1,0 +1,13 @@
+body{
+    background-image: url(Церковь.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+.heaven {
+    color: rgb(211, 130, 67);
+}
+.title_priest {
+    color: rgb(93, 167, 237);
+}
+#text_priest {
+    color: rgb(191, 140, 225);
+}
